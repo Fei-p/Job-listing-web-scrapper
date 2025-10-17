@@ -1,6 +1,6 @@
 ## Overview
 
-Our study examines the burgeoning data science job market, highlighting its job security, competitive salaries, and growth opportunities. We detail the high demand for data scientists across industries, particularly in Information Technology, and the essential skills required, such as proficiency in R, Tableau, databases, and programming languages like Python. The analysis reveals varying hiring patterns and emphasizes California's significant role in job availability. It also notes a salary range of $60,000 to $220,000, with many earning between $100,000 and $140,000. Future research may explore technology's impact on this field and regional job market comparisons.
+This study examines the burgeoning data science job market, highlighting its job security, competitive salaries, and growth opportunities. We detail the high demand for data scientists across industries, particularly in Information Technology, and the essential skills required, such as proficiency in R, Tableau, databases, and programming languages like Python. The analysis reveals varying hiring patterns and emphasizes California's significant role in job availability. It also notes a salary range of $60,000 to $220,000, with many earning between $100,000 and $140,000. Future research may explore technology's impact on this field and regional job market comparisons.
 
 ## Repository Structure
 
